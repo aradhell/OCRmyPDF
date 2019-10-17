@@ -7,7 +7,7 @@
 *.pyc
 *.sublime-*
 *.DS_Store
-
+.idea/
 # Package building
 .eggs/
 *.egg-info/
